@@ -1,0 +1,39 @@
+E:\Calculator\Calculator\obj\Debug\ResolveAssemblyReference.cache
+E:\Calculator\Calculator\obj\Debug\App.g.i.cs
+E:\Calculator\Calculator\obj\Debug\MainPage.g.i.cs
+E:\Calculator\Calculator\obj\Debug\Calculator.g.resources
+E:\Calculator\Calculator\Bin\Debug\ApplicationIcon.png
+E:\Calculator\Calculator\Bin\Debug\Background.png
+E:\Calculator\Calculator\Bin\Debug\Calculator.dll
+E:\Calculator\Calculator\Bin\Debug\Calculator.pdb
+E:\Calculator\Calculator\Bin\Debug\AppManifest.xaml
+E:\Calculator\Calculator\Bin\Debug\Calculator.xap
+E:\Calculator\Calculator\obj\Debug\Calculator.dll
+E:\Calculator\Calculator\obj\Debug\Calculator.pdb
+E:\Calculator\Calculator\obj\Debug\XapCacheFile.xml
+E:\School\Computing\Aliyah Bond 10B\Calculator\Calculator\Calculator\Bin\Debug\ApplicationIcon.png
+E:\School\Computing\Aliyah Bond 10B\Calculator\Calculator\Calculator\Bin\Debug\Background.png
+E:\School\Computing\Aliyah Bond 10B\Calculator\Calculator\Calculator\Bin\Debug\Calculator.dll
+E:\School\Computing\Aliyah Bond 10B\Calculator\Calculator\Calculator\Bin\Debug\Calculator.pdb
+E:\School\Computing\Aliyah Bond 10B\Calculator\Calculator\Calculator\Bin\Debug\AppManifest.xaml
+E:\School\Computing\Aliyah Bond 10B\Calculator\Calculator\Calculator\Bin\Debug\Calculator.xap
+E:\School\Computing\Aliyah Bond 10B\Calculator\Calculator\Calculator\obj\Debug\ResolveAssemblyReference.cache
+E:\School\Computing\Aliyah Bond 10B\Calculator\Calculator\Calculator\obj\Debug\App.g.i.cs
+E:\School\Computing\Aliyah Bond 10B\Calculator\Calculator\Calculator\obj\Debug\MainPage.g.i.cs
+E:\School\Computing\Aliyah Bond 10B\Calculator\Calculator\Calculator\obj\Debug\Calculator.g.resources
+E:\School\Computing\Aliyah Bond 10B\Calculator\Calculator\Calculator\obj\Debug\Calculator.dll
+E:\School\Computing\Aliyah Bond 10B\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
+E:\School\Computing\Aliyah Bond 10B\Calculator\Calculator\Calculator\obj\Debug\XapCacheFile.xml
+F:\School\Computing\Aliyah Bond 11B\Calculator\Calculator\Calculator\Bin\Debug\ApplicationIcon.png
+F:\School\Computing\Aliyah Bond 11B\Calculator\Calculator\Calculator\Bin\Debug\Background.png
+F:\School\Computing\Aliyah Bond 11B\Calculator\Calculator\Calculator\Bin\Debug\Calculator.dll
+F:\School\Computing\Aliyah Bond 11B\Calculator\Calculator\Calculator\Bin\Debug\Calculator.pdb
+F:\School\Computing\Aliyah Bond 11B\Calculator\Calculator\Calculator\Bin\Debug\AppManifest.xaml
+F:\School\Computing\Aliyah Bond 11B\Calculator\Calculator\Calculator\Bin\Debug\Calculator.xap
+F:\School\Computing\Aliyah Bond 11B\Calculator\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+F:\School\Computing\Aliyah Bond 11B\Calculator\Calculator\Calculator\obj\Debug\App.g.cs
+F:\School\Computing\Aliyah Bond 11B\Calculator\Calculator\Calculator\obj\Debug\MainPage.g.cs
+F:\School\Computing\Aliyah Bond 11B\Calculator\Calculator\Calculator\obj\Debug\Calculator.g.resources
+F:\School\Computing\Aliyah Bond 11B\Calculator\Calculator\Calculator\obj\Debug\Calculator.dll
+F:\School\Computing\Aliyah Bond 11B\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
+F:\School\Computing\Aliyah Bond 11B\Calculator\Calculator\Calculator\obj\Debug\XapCacheFile.xml
